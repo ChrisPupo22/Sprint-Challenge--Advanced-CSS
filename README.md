@@ -133,3 +133,9 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Create a fixed navigation and add some opacity to the background
 
 * [ ] Create a form that would allow someone to sign up for a Spacewalkers Magazine subscription
+
+1. What is the difference between an adaptive website and a fully responsive website? Adaptive sites may adapt to certain viewports while a fully responsive site is able to adjust to any view port size and fit and work perfectly.  
+2. Describe what it means to be mobile first vs desktop first. Mobile first uses min-width and moves up to desktop while desktop first uses max-width moves down to fit mobile screens.                                                            
+3. What does font-size: 62.5% in the html tag do for us when using rem units? A font-size of 62.5% in the html tag sets the font to 10px based on percentage. This allows for the font to adapt to the different viewports and such. 
+4. How would you describe preprocessing to someone new to CSS? Pre processing is allows you to clean up your css by using nesting features and things such as mixins and variables in your design code in order to help keep order. 
+5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble? Favorite concept= nesting, most trouble = parametric mixins. 
