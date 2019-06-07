@@ -346,3 +346,59 @@ footer {
 footer {
   margin-bottom: 19px;
 }
+.mars-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+.mars-cont .mars-pic {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+.prompt {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: 0 auto;
+  font-size: 17px;
+  margin-top: 15px;
+}
+.prompt .u-name {
+  background: red;
+}
+.u-name {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 10px;
+  width: 25%;
+  margin-top: 10px;
+}
+.p-word {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 10px;
+  width: 25%;
+  margin-top: 10px;
+}
+.sign-in-btn {
+  border: 1px solid red;
+  border-radius: 10px;
+  padding: 10px;
+  width: 20%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+.sign-in-btn:hover {
+  cursor: pointer;
+  background: firebrick;
+  border: 1px solid white;
+  transition: 3s;
+  color: lime;
+}
